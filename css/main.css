@@ -24,6 +24,13 @@ p {
   transition: all 0.5s;
 }
 
+.navbar.scrolled {
+  background: rgba(0, 0, 0, 0.8) !important;
+  transition: all 0.5s;
+  -webkit-backdrop-filter: blur(3px);
+          backdrop-filter: blur(3px);
+}
+
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
@@ -415,7 +422,7 @@ footer {
   }
 
   .navbar.scrolled {
-    background: rgba(0, 0, 0, 0.95) !important;
+    background: rgba(0, 0, 0, 0.85) !important;
     transition: all 0.5s;
   }
 
