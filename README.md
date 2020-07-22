@@ -3,4 +3,4 @@ Responsive site created with Bootstrap. Main Wordpress custom theme version plac
 https://github.com/Sumner-David/Nature-Tours-WP-Theme
 
 
-[https://www.davidsumner.co.uk/projects/nature_tours/](https://www.davidsumner.co.uk/projects/nature_tours/)
+[https://www.davidsumner.co.uk/projects/natural_tours/](https://www.davidsumner.co.uk/projects/natural_tours/)
